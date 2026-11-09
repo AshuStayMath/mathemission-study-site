@@ -34,5 +34,4 @@ AddType image/svg+xml .svg
 # Android app link (Google Play app)
 <Files "assetlinks.json">
   ForceType application/json
-  Header set Access-Control-Allow-Origin "*"
 </Files>
